@@ -7,5 +7,7 @@ int main(int argc, char const *argv[])
 	fun_1();
 	fun_2();
 
+    printf("submod 1 = %d, submod 2 = %d\n",  SUB_MOD1, SUB_MOD2 );
+
 	return 0;
 }
